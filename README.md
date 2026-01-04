@@ -6,7 +6,7 @@ I have been practising programming, constantly learning and improving. I aim to 
 
 -   🎓 B.Tech in Computer Science 2024
 -   🌱 Currently expanding my expertise in Full-Stack Development.
--   🌐 You can see my some projects on [my portfolio]() and explore my work on [GitHub](https://github.com/omnathshinde).
+-   🌐 You can see my some projects on [my portfolio]() and explore my work on [GitHub](https://omnathshinde.github.io).
 -   🤝 I’m open to collaborating on innovative web applications, open-source projects, or any Full-Stack development tasks.
 
 ### 💬 Reach me on
