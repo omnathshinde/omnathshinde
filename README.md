@@ -18,8 +18,8 @@ I have been practising programming, constantly learning and improving. I aim to 
 
 ### 🛠️ Tech stack
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js)
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,flask)
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,angular)
-![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)
-![My Skills](https://skillicons.dev/icons?i=git,linux)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,postman)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,nginx)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,angular,materialui,reactivex)
+![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)
+![My Skills](https://skillicons.dev/icons?i=git,linux,githubactions,docker,kubernetes,ubuntu)
