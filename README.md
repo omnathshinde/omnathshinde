@@ -13,7 +13,7 @@ I have been practising programming, constantly learning and improving. I aim to 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omnathshinde)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/omnathshinde)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=green)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://omnathshinde.github.io/)
 [![Medium](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=orange)](https://omnathshinde.medium.com)
 
 ### 🛠️ Tech stack
