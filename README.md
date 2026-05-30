@@ -4,10 +4,10 @@
 
 I have been practising programming, constantly learning and improving. I aim to help people achieve their dreams by developing impactful websites and software solutions.
 
--   🎓 B.Tech in Computer Science 2024
--   🌱 Currently expanding my expertise in Full-Stack Development.
--   🌐 You can see my some projects on [my portfolio](https://omnathshinde.github.io) and explore my work on [GitHub](https://github.com/omnathshinde).
--   🤝 I’m open to collaborating on innovative web applications, open-source projects, or any Full-Stack development tasks.
+- 🎓 B.Tech in Computer Science 2024
+- 🌱 Currently expanding my expertise in Full-Stack Development.
+- 🌐 You can see my some projects on [my portfolio](https://omnathshinde.github.io) and explore my work on [GitHub](https://github.com/omnathshinde).
+- 🤝 I’m open to collaborating on innovative web applications, open-source projects, or any Full-Stack development tasks.
 
 ### 💬 Reach me on
 
@@ -19,7 +19,7 @@ I have been practising programming, constantly learning and improving. I aim to 
 ### 🛠️ Tech stack
 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,postman)
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,nginx)
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,angular,materialui,reactivex)
-![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)
-![My Skills](https://skillicons.dev/icons?i=git,linux,githubactions,docker,kubernetes,ubuntu)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,nginx,redis)
+![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,react,angular,materialui,reactivex)
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,dynamodb)
+![Devops](https://skillicons.dev/icons?i=git,linux,githubactions,docker,kubernetes,ubuntu,aws,bash)
